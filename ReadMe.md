@@ -31,20 +31,6 @@ This project depends on:
 - C++17 compiler
 - CMake (for building the project)
 
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone git@github.com:Hassan-Bahrami/QuadTree.git
-   cd QuadTree
-   ```
-2. Build the project using CMake:
-  ```sh
-  mkdir build
-  cd build
-  cmake ..
-  make
-  ```
 ## Usage
 To use the QuadTree in your C++ project, include the necessary headers and link against the QuadTree library:
 ```sh
